@@ -1,7 +1,7 @@
 {
-  "name": "mineflayer-collectblock",
-  "version": "1.4.1",
-  "description": "A simple utility plugin for Mineflayer that add a higher level API for collecting blocks.",
+  "name": "mineflayer-collectblock-colalab",
+  "version": "1.0.0",
+  "description": "This repository, a fork due to the original's npm not being updated and remains identical in content to the source repository. ",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -36,7 +36,8 @@
     "@types/node": "^18.6.4",
     "require-self": "^0.2.3",
     "ts-standard": "^11.0.0",
-    "typescript": "^4.1.3"
+    "typescript": "^4.1.3",
+    "webpack-cli": "^5.1.4"
   },
   "files": [
     "lib/**/*"
